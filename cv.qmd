@@ -1,0 +1,58 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Hyungjoo Han
+date: last-modified
+#phone: 123-456-7890
+#address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+email: hhan3392@gmail.com
+fontsize: 9pt
+#fontfamily: ebgaramond-maths # default font LaTeX package https://tug.org/FontCatalogue/about.html
+#mainfont: Ubuntu # if you want to use a different locally installed font
+#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
+github: hhan3392 # github account
+# web: quarto.org
+fontawesome: yes
+nocite: '@*'
+validate-yaml: false
+csl: apa-cv.csl
+---
+
+
+# Education
+
+*University of California, Los Angeles (UCLA)* \hfill Los Angeles, California \newline
+B.S. Statistics and Data Science \hfill Expected June 2025
+
+# Work Experience
+*The Study at Hedrick, Student Worker* \hfill Oct 2024-Present \newline
+-Interacted with students to ensure the best customer service, resolved conflicts brought up by students and coworkers. \newline
+-Got orders out in a timely manner, made sure there were no interruptions with the flow of business. \newline
+-Enforced a positive and comfortable environment for students and coworkers.
+
+*Sharetea UCLA, Shift Lead* \hfill Oct 2022-Aug 2024 \newline
+-Trained new baristas and was responsible for assigning tasks to employees. \newline
+-Encouraged a friendly work environment and gained experience confronting coworkers and customers. \newline
+-Submitted shift reports with suggestions to improve operations
+
+# Projects
+
+*Effects of Music and Exercise on Attention Test Scores* \hfill Apr 2024 – June 2024 \newline
+-Used sampling methods to collect data over a period of 3 days to determine how different forms of exercise, music, and combinations improve or impair attention levels.\newline
+-Used a randomized complete block design with two treatment factors and created visualizations to get a preliminary idea of the effect of the treatment factors.
+
+*National Student Data Corps at UCLA Group Project* \hfill Apr 2024 – May 2024 \newline
+-Analyzed a dataset using Tableau to determine which factors have the most impact on medical insurance costs. \newline
+-Visualized the interactions between the demographic variables and presented our findings.
+
+*DataFest Group Data Analysis* \hfill April 2024 \newline
+-Exercised data analysis given a dataset from CourseKata, an interactive online textbook designed to help users learn statistics and data science. \newline
+-Reported suggestions on how to improve student learning experience on CourseKata based on the interactive data, which included over one million observations. \newline
+-Cleaned data and created predictive models and visualizations using R and Python to present to a panel of judges.
+
+*New York City Real Estate Linear Regression Project* \hfill Jan 2024 – Mar 2024 \newline
+-Observed a dataset of 4801 homes in New York City- analyzed how different variables affect the overall price of a house. \newline
+-Reported graphs and findings using visualizations, and linear regression techniques. \newline
+-Cleaned data and produced different models to determine the best model for predicting prices of NYC homes. \newline
+-Used transformation techniques in R such as Box-Cox to reduce our model.
